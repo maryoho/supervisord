@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kardianos/service"
+	"github.com/maryoho/service"
 	log "github.com/sirupsen/logrus"
 )
 
