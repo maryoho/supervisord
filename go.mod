@@ -1,4 +1,4 @@
-module github.com/ochinchina/supervisord
+module github.com/maryoho/supervisord
 
 go 1.17
 
